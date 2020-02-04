@@ -1,0 +1,7 @@
+H:\C#\Rubiks Cube\Cube-2x2\bin\Debug\Cube-2x2.exe.config
+H:\C#\Rubiks Cube\Cube-2x2\bin\Debug\Cube-2x2.exe
+H:\C#\Rubiks Cube\Cube-2x2\bin\Debug\Cube-2x2.pdb
+H:\C#\Rubiks Cube\Cube-2x2\obj\Debug\Cube-2x2.csprojAssemblyReference.cache
+H:\C#\Rubiks Cube\Cube-2x2\obj\Debug\Cube-2x2.csproj.CoreCompileInputs.cache
+H:\C#\Rubiks Cube\Cube-2x2\obj\Debug\Cube-2x2.exe
+H:\C#\Rubiks Cube\Cube-2x2\obj\Debug\Cube-2x2.pdb
